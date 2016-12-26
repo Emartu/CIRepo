@@ -34,3 +34,4 @@ public class AppTest {
 		EmptyClass.emptyMethod();
 	}
 }
+/**/
