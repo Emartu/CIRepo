@@ -5,10 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Ignore;
 import org.junit.Test;
 
-/**
- * Unit test for simple App.
- * @author vitali_shulha
- */
+
 public class AppTest {
 
 	@Test
